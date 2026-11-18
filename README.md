@@ -1,5 +1,8 @@
 # Waste Record Management System
 
+[![CI](https://github.com/KaranR03/app_IFN636/actions/workflows/ci.yml/badge.svg)](https://github.com/KaranR03/app_IFN636/actions/workflows/ci.yml)
+
+
 A full-stack CRUD application for managing waste collection records, built with Node.js, React.js, and MongoDB.
 
 ## Tech Stack
