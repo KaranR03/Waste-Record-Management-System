@@ -1,6 +1,6 @@
 # Waste Record Management System
 
-[![CI](https://github.com/KaranR03/app_IFN636/actions/workflows/ci.yml/badge.svg)](https://github.com/KaranR03/app_IFN636/actions/workflows/ci.yml)
+[![CI](https://github.com/KaranR03/Waste-Record-Management-System/actions/workflows/ci.yml/badge.svg)](https://github.com/KaranR03/Waste-Record-Management-System/actions/workflows/ci.yml)
 
 
 A full-stack CRUD application for managing waste collection records, built with Node.js, React.js, and MongoDB.
@@ -22,8 +22,8 @@ A full-stack CRUD application for managing waste collection records, built with 
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/KaranR03/app_IFN636.git
-cd app_IFN636
+git clone https://github.com/KaranR03/Waste-Record-Management-System.git
+cd Waste-Record-Management-System
 ```
 
 ### 2. Backend Setup
@@ -92,14 +92,14 @@ The pipeline automatically:
 
 ## GitHub Repository
 
-https://github.com/KaranR03/app_IFN636
+https://github.com/KaranR03/Waste-Record-Management-System
 
 
 ## start 
-cd ~/app_IFN636/backend
+cd ~/Waste-Record-Management-System/backend
 pm2 start server.js --name backend
 
-cd ~/app_IFN636/frontend
+cd ~/Waste-Record-Management-System/frontend
 pm2 serve build 3000 --name frontend --spa
 
 pm2 save
